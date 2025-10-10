@@ -98,7 +98,7 @@ Patient
 
 Reception
 
-![image](/lab2BD/lab2reeception.png)
+![image](/lab2BD/lab2reception.png)
 
 Schedule
 
