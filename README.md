@@ -84,30 +84,30 @@ CREATE TABLE Stattalon (
 
 Диаграмма
 
-![image](/Lab2BD/lab2diagram.png)
+![image](/lab2BD/lab2diagram.png)
 
 Заполненные данными таблицы:
 
 Doctor
 
-![image](/Lab2BD/lab2doctor.png)
+![image](/lab2BD/lab2doctor.png)
 
 Patient
 
-![image](/Lab2BD/lab2patient.png)
+![image](/lab2BD/lab2patient.png)
 
 Reception
 
-![image](/Lab2BD/lab2reeception.png)
+![image](/lab2BD/lab2reeception.png)
 
 Schedule
 
-![image](/Lab2BD/lab2schedule.png)
+![image](/lab2BD/lab2schedule.png)
 
 Stattalon
 
-![image](/Lab2BD/lab2stattalon.png)
+![image](/lab2BD/lab2stattalon.png)
 
 District
 
-![image](/Lab2BD/lab2district.png)
+![image](/lab2BD/lab2district.png)
