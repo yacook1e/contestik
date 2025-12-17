@@ -118,6 +118,5 @@ District
 
 [Назад](#content)
 <h3 align="center">
-  <a href="#client"></a>
-  ![Отчёт](/lab3BD/Кудрявцев_ПМИ32.docx)
+  ![text](/lab3BD/Кудрявцев_ПМИ32.docx)
 </h3>
