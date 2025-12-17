@@ -114,12 +114,6 @@ District
 ![image](/lab2BD/lab2district.png)
 
 
-
-
-## Lab 3 (PGSQL)
-[Part 1](/3/Семенов_ПМИ32.docx)
-
-
 # <img src="https://github.com/user-attachments/assets/e080adec-6af7-4bd2-b232-d43cb37024ac" width="20" height="20"/> Lab3
 
 [Назад](#content)
