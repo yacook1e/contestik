@@ -119,8 +119,7 @@ District
 [Назад](#content)
 
 <h3 align="center">
-  [Текст ссылки](/lab3BD/Kudryavcev_PMI32.docx)
+  [otchet](/lab3BD/Kudryavcev_PMI32.docx)
 
 </h3>
-[Отчёт](https://github.com/yacook1e/contestik/blob/main/lab3BD/Кудрявцев_ПМИ32.docx)
 [otchet](/lab3BD/Kudryavcev_PMI32.docx)
