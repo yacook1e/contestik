@@ -119,7 +119,7 @@ District
 [Назад](#content)
 
 <h3 align="center">
-  [Отчёт](/Lab3BD/Кудрявцев_ПМИ32.docx)
+  [Отчёт](https://github.com/yacook1e/contestik/blob/main/lab3BD/%D0%9A%D1%83%D0%B4%D1%80%D1%8F%D0%B2%D1%86%D0%B5%D0%B2_%D0%9F%D0%9C%D0%9832.docx)
 </h3>
 [Отчёт](/Lab3BD/Кудрявцев_ПМИ32.docx)
 
