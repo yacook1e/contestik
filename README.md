@@ -121,5 +121,5 @@ District
 <h3 align="center">
   [Отчёт](https://github.com/yacook1e/contestik/blob/main/lab3BD/Кудрявцев_ПМИ32.docx)
 </h3>
-[Отчёт]([/Lab3BD/Кудрявцев_ПМИ32.docx](https://github.com/yacook1e/contestik/blob/main/lab3BD/Кудрявцев_ПМИ32.docx))
+[Отчёт](https://github.com/yacook1e/contestik/blob/main/lab3BD/Кудрявцев_ПМИ32.docx)
 
