@@ -120,6 +120,5 @@ District
 
 <h3 align="center">
   [otchet](/lab3BD/Kudryavcev_PMI32.docx)
-
 </h3>
 [otchet](/lab3BD/Kudryavcev_PMI32.docx)
