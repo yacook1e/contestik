@@ -5,6 +5,7 @@
   <a href="#-lab2"><img alt="lab2" src="https://img.shields.io/badge/Lab2-red"></a>
   <a href="#-lab3"><img alt="lab3" src="https://img.shields.io/badge/Lab3-green"></a>
    <a href="#-lab4"><img alt="lab4" src="https://img.shields.io/badge/Lab4-pink"></a>
+  <a href="#-lab5"><img alt="lab5" src="https://img.shields.io/badge/Lab5-pink"></a>
 </p>
 
 # <img src="https://github.com/user-attachments/assets/e080adec-6af7-4bd2-b232-d43cb37024ac" width="20" height="20"/> Lab1
@@ -189,3 +190,20 @@ c) Замещающий триггер на операцию удаления с
    ![image](/lab4BD/trig_c.jpg)
  
    ![image](/lab4BD/trig_c_test.jpg)
+
+
+
+# <img src="https://github.com/user-attachments/assets/e080adec-6af7-4bd2-b232-d43cb37024ac" width="20" height="20"/> Lab5
+
+[Назад](#content)
+  <a href="#client"></a>
+  1-я роль должна иметь доступ к таблицам, хр. процедурам и др. объектам БД, требующийся для руководителя фирмы . Некоторые права необходимо предоставить с возможностью дальнейшей передачи.
+2-я роль должна иметь доступ, требующийся для простого сотрудника.
+Выполнить маскирование некоторых поле Ваших таблиц  2-мя различными методами. 
+1. ALTER COLUMN LastName ADD MASKED WITH (FUNCTION = 'partial(2,"xxxx",0)')
+2. Используя механизмы представлений, хранимых процедур и функций.
+
+![image](/lab5BD/script_1.jpg)
+![image](/lab5BD/script_2.jpg)
+
+
