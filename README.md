@@ -3,7 +3,8 @@
 <p align="center">
   <a href="#-lab1"><img alt="lab1" src="https://img.shields.io/badge/Lab1-blue"></a> 
   <a href="#-lab2"><img alt="lab2" src="https://img.shields.io/badge/Lab2-red"></a>
-  <a href="#-lab2"><img alt="lab2" src="https://img.shields.io/badge/Lab3-green"></a>
+  <a href="#-lab2"><img alt="lab3" src="https://img.shields.io/badge/Lab3-green"></a>
+   <a href="#-lab2"><img alt="lab4" src="https://img.shields.io/badge/Lab4-pink"></a>
 </p>
 
 # <img src="https://github.com/user-attachments/assets/e080adec-6af7-4bd2-b232-d43cb37024ac" width="20" height="20"/> Lab1
@@ -122,3 +123,45 @@ District
   [otchet](/lab3BD/Kudryavcev_PMI32.docx)
 </h3>
 [otchet](/lab3BD/Kudryavcev_PMI32.docx)
+
+# <img src="https://github.com/user-attachments/assets/e080adec-6af7-4bd2-b232-d43cb37024ac" width="20" height="20"/> Lab1
+
+[Назад](#content)
+<h3 align="center">
+  <a href="#client"></a>
+  
+  Процедуры:
+a) Процедура без параметров, возвращающая расписание работы врачей на текущую дату: ФИО врача, кабинет, время начала работы, количество записавшихся на этот день пациентов
+  ![image](/lab4BD/proc_a.jpg)
+b) Процедура, на входе получающая номер участка и формирующая список улиц, находящихся на этом участке
+  ![image](/lab4BD/proc_b.jpg)
+  ![image](/lab4BD/proc_b_test.jpg)
+c) Процедура, получающая номер участка как входной параметр, формирующая выходной параметр  – ФИО врача, обслуживающего данный участок
+  ![image](/lab4BD/proc_c.jpg)
+  ![image](/lab4BD/proc_c_test.jpg)
+	d) Процедура, находящая один из участков с максимальным количеством домов и возвращающая ФИО врача, обслуживающего данный участок (с использованием вызова предыдущей процедуры)
+  ![image](/lab4BD/proc_d.jpg)
+  ![image](/lab4BD/proc_d_test.jpg)
+  
+  Функции:
+	a) Скалярная функция, возвращающая по адресу (улица, дом) номер участка
+  ![image](/lab4BD/func_a.jpg)
+  ![image](/lab4BD/func_a_test.jpg)
+	b) Inline-функция, возвращающая все посещения заданного пациента за текущий год
+  ![image](/lab4BD/func_b.jpg)
+	c) Multi-statement-функция, возвращающая список свободных явок на текущую неделю к заданному врачу в формате день недели, время 
+  ![image](/lab4BD/func_c.jpg)
+  ![image](/lab4BD/func_c2.jpg)
+  ![image](/lab4BD/func_c_test.jpg)
+ 
+  Тригеры:
+	a) Триггер любого типа на добавление нового врача – если это терапевт и номер участка не заполнен, то выводится сообщение об этом, и запись не добавляется
+  ![image](/lab4BD/trig_a.jpg)
+  ![image](/lab4BD/trig_a_testjpg.jpg)
+	b)  Последующий триггер на изменение номера кабинета у врача – если этот кабинет проставлен у другого врача и он пересекается по дням недели хотя бы в 1 день с данным врачом, то отменить изменение
+  ![image](/lab4BD/trig_b.jpg)
+  ![image](/lab4BD/trig_b_test.jpg)
+	c) Замещающий триггер на операцию удаления строки из графика приема врача – если на даты, соответствующие дню недели удаляемой строки, выданы талоны, то строка не удаляется
+   ![image](/lab4BD/trig_c.jpg)
+   ![image](/lab4BD/trig_c_test.jpg)
+</h3>
